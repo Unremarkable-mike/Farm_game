@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tmdr38pjsxhc"
-path="res://.godot/imported/UI Big Play Button.png-7038bec290ea9b6ff4aa96721b39c24a.ctex"
+path="res://.godot/imported/UI Big Play Button.png-74580ced5ac2e591f70785e64bd3d43d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/UI_sprites/Sprite sheets/UI Big Play Button.png"
-dest_files=["res://.godot/imported/UI Big Play Button.png-7038bec290ea9b6ff4aa96721b39c24a.ctex"]
+source_file="res://Assets/UI_sprites/Sprite sheets/UI Big Play Button.png"
+dest_files=["res://.godot/imported/UI Big Play Button.png-74580ced5ac2e591f70785e64bd3d43d.ctex"]
 
 [params]
 

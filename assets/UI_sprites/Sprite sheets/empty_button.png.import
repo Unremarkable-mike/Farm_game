@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://od7ctoy21h0x"
-path="res://.godot/imported/empty_button.png-69dbc4cd427cae6ba0a8a7cd6977b7a5.ctex"
+path="res://.godot/imported/empty_button.png-3384b7693a58ac93143d396c4ca6405e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/UI_sprites/Sprite sheets/empty_button.png"
-dest_files=["res://.godot/imported/empty_button.png-69dbc4cd427cae6ba0a8a7cd6977b7a5.ctex"]
+source_file="res://Assets/UI_sprites/Sprite sheets/empty_button.png"
+dest_files=["res://.godot/imported/empty_button.png-3384b7693a58ac93143d396c4ca6405e.ctex"]
 
 [params]
 

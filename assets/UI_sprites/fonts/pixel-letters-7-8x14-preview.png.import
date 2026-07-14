@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xw701lhsev2k"
-path="res://.godot/imported/pixel-letters-7-8x14-preview.png-aba4b5e86696dfac48ea62b213cf7ad1.ctex"
+path="res://.godot/imported/pixel-letters-7-8x14-preview.png-347642f5e17122f061d287ce92347cc4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/UI_sprites/fonts/pixel-letters-7-8x14-preview.png"
-dest_files=["res://.godot/imported/pixel-letters-7-8x14-preview.png-aba4b5e86696dfac48ea62b213cf7ad1.ctex"]
+source_file="res://Assets/UI_sprites/fonts/pixel-letters-7-8x14-preview.png"
+dest_files=["res://.godot/imported/pixel-letters-7-8x14-preview.png-347642f5e17122f061d287ce92347cc4.ctex"]
 
 [params]
 

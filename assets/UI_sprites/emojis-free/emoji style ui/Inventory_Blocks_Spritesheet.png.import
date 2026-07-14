@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dslqonkswev6h"
-path="res://.godot/imported/Inventory_Blocks_Spritesheet.png-6ec228c5d5811a62c92a392e4be6e9c6.ctex"
+path="res://.godot/imported/Inventory_Blocks_Spritesheet.png-8042695fb4dae930372909fd9057d4c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/UI_sprites/emojis-free/emoji style ui/Inventory_Blocks_Spritesheet.png"
-dest_files=["res://.godot/imported/Inventory_Blocks_Spritesheet.png-6ec228c5d5811a62c92a392e4be6e9c6.ctex"]
+source_file="res://Assets/UI_sprites/emojis-free/emoji style ui/Inventory_Blocks_Spritesheet.png"
+dest_files=["res://.godot/imported/Inventory_Blocks_Spritesheet.png-8042695fb4dae930372909fd9057d4c0.ctex"]
 
 [params]
 

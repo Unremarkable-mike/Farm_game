@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8hsc7hamego8"
-path="res://.godot/imported/Deer_Idle.png-243b95b538425c9087e4b1a12bb78441.ctex"
+path="res://.godot/imported/Deer_Idle.png-1708467c4e334e9921aff0154d914fc9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objects/PNG/Without_shadow/Deer/Deer_Idle.png"
-dest_files=["res://.godot/imported/Deer_Idle.png-243b95b538425c9087e4b1a12bb78441.ctex"]
+source_file="res://Assets/Objects/PNG/Without_shadow/Deer/Deer_Idle.png"
+dest_files=["res://.godot/imported/Deer_Idle.png-1708467c4e334e9921aff0154d914fc9.ctex"]
 
 [params]
 

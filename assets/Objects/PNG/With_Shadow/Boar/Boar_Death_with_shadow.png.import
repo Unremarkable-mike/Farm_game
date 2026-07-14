@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgxgj5cucblqi"
-path="res://.godot/imported/Boar_Death_with_shadow.png-5e6e4c6a139d5069b25369703c66e67a.ctex"
+path="res://.godot/imported/Boar_Death_with_shadow.png-18373a3a313efa9fab6101f6be924270.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objects/PNG/With_Shadow/Boar/Boar_Death_with_shadow.png"
-dest_files=["res://.godot/imported/Boar_Death_with_shadow.png-5e6e4c6a139d5069b25369703c66e67a.ctex"]
+source_file="res://Assets/Objects/PNG/With_Shadow/Boar/Boar_Death_with_shadow.png"
+dest_files=["res://.godot/imported/Boar_Death_with_shadow.png-18373a3a313efa9fab6101f6be924270.ctex"]
 
 [params]
 

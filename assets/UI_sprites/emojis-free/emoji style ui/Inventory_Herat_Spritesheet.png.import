@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxp2oafy4wnih"
-path="res://.godot/imported/Inventory_Herat_Spritesheet.png-741e0f97f90b83977c833a0d7a8fc6fe.ctex"
+path="res://.godot/imported/Inventory_Herat_Spritesheet.png-bb87cd1d21ffd0b9b3251d8119e6b492.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/UI_sprites/emojis-free/emoji style ui/Inventory_Herat_Spritesheet.png"
-dest_files=["res://.godot/imported/Inventory_Herat_Spritesheet.png-741e0f97f90b83977c833a0d7a8fc6fe.ctex"]
+source_file="res://Assets/UI_sprites/emojis-free/emoji style ui/Inventory_Herat_Spritesheet.png"
+dest_files=["res://.godot/imported/Inventory_Herat_Spritesheet.png-bb87cd1d21ffd0b9b3251d8119e6b492.ctex"]
 
 [params]
 

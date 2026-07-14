@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://56eykl1d73cs"
-path="res://.godot/imported/Deer_Run_with_shadow.png-6e691f57a6b9db91357ef045fad523d9.ctex"
+path="res://.godot/imported/Deer_Run_with_shadow.png-cb70655d9d189f32007015826c68f8a6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objects/PNG/With_Shadow/Deer/Deer_Run_with_shadow.png"
-dest_files=["res://.godot/imported/Deer_Run_with_shadow.png-6e691f57a6b9db91357ef045fad523d9.ctex"]
+source_file="res://Assets/Objects/PNG/With_Shadow/Deer/Deer_Run_with_shadow.png"
+dest_files=["res://.godot/imported/Deer_Run_with_shadow.png-cb70655d9d189f32007015826c68f8a6.ctex"]
 
 [params]
 

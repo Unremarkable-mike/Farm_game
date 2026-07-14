@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://beagd1enkw575"
-path="res://.godot/imported/Teemo Basic emote animations sprite sheet.png-1aea7fafe42a7c9f900f7936204a87ee.ctex"
+path="res://.godot/imported/Teemo Basic emote animations sprite sheet.png-cfe660fb59592547a8d12b6ce9986f0e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/UI_sprites/Sprite sheets/Dialouge UI/Emotes/Teemo Basic emote animations sprite sheet.png"
-dest_files=["res://.godot/imported/Teemo Basic emote animations sprite sheet.png-1aea7fafe42a7c9f900f7936204a87ee.ctex"]
+source_file="res://Assets/UI_sprites/Sprite sheets/Dialouge UI/Emotes/Teemo Basic emote animations sprite sheet.png"
+dest_files=["res://.godot/imported/Teemo Basic emote animations sprite sheet.png-cfe660fb59592547a8d12b6ce9986f0e.ctex"]
 
 [params]
 

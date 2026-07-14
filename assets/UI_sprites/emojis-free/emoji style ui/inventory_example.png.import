@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rmw46xklhi2i"
-path="res://.godot/imported/inventory_example.png-c8546506d080e1748b2fa5570eab0eec.ctex"
+path="res://.godot/imported/inventory_example.png-4f6076fdc9c43636e08183ab3b68183a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/UI_sprites/emojis-free/emoji style ui/inventory_example.png"
-dest_files=["res://.godot/imported/inventory_example.png-c8546506d080e1748b2fa5570eab0eec.ctex"]
+source_file="res://Assets/UI_sprites/emojis-free/emoji style ui/inventory_example.png"
+dest_files=["res://.godot/imported/inventory_example.png-4f6076fdc9c43636e08183ab3b68183a.ctex"]
 
 [params]
 

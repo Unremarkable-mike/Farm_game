@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ds5nvuhofcgg2"
-path="res://.godot/imported/Boar_Run.png-9d543b7d7c2345901868109bdbf9e582.ctex"
+path="res://.godot/imported/Boar_Run.png-443a302e4da52450de1c721c73ed062f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objects/PNG/Without_shadow/Boar/Boar_Run.png"
-dest_files=["res://.godot/imported/Boar_Run.png-9d543b7d7c2345901868109bdbf9e582.ctex"]
+source_file="res://Assets/Objects/PNG/Without_shadow/Boar/Boar_Run.png"
+dest_files=["res://.godot/imported/Boar_Run.png-443a302e4da52450de1c721c73ed062f.ctex"]
 
 [params]
 

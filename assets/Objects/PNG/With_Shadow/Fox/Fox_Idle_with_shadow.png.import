@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cicdocmj4hj0t"
-path="res://.godot/imported/Fox_Idle_with_shadow.png-41d6d0df70d949ea5d15866c51a749dc.ctex"
+path="res://.godot/imported/Fox_Idle_with_shadow.png-fad317ee9b59e479cff7f3c310e18948.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objects/PNG/With_Shadow/Fox/Fox_Idle_with_shadow.png"
-dest_files=["res://.godot/imported/Fox_Idle_with_shadow.png-41d6d0df70d949ea5d15866c51a749dc.ctex"]
+source_file="res://Assets/Objects/PNG/With_Shadow/Fox/Fox_Idle_with_shadow.png"
+dest_files=["res://.godot/imported/Fox_Idle_with_shadow.png-fad317ee9b59e479cff7f3c310e18948.ctex"]
 
 [params]
 

@@ -1,7 +1,7 @@
 extends Node2D
 
-var Menu_screen = preload("res://ui_start_game.tscn").instantiate()
-var Game = preload("res://game.tscn").instantiate()
+var Menu_screen = preload("res://Scenes/UI elemets/ui_start_game.tscn").instantiate()
+var Game = preload("res://Scenes/game.tscn").instantiate()
 
 
 func _ready() -> void:

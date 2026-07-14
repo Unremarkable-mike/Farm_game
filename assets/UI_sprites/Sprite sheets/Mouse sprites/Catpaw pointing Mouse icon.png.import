@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cofs1vwaygn18"
-path="res://.godot/imported/Catpaw pointing Mouse icon.png-43ea2a7741fe1a54c51aee40e30dd79c.ctex"
+path="res://.godot/imported/Catpaw pointing Mouse icon.png-b9f553562208d89339bd4e230c2dac31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/UI_sprites/Sprite sheets/Mouse sprites/Catpaw pointing Mouse icon.png"
-dest_files=["res://.godot/imported/Catpaw pointing Mouse icon.png-43ea2a7741fe1a54c51aee40e30dd79c.ctex"]
+source_file="res://Assets/UI_sprites/Sprite sheets/Mouse sprites/Catpaw pointing Mouse icon.png"
+dest_files=["res://.godot/imported/Catpaw pointing Mouse icon.png-b9f553562208d89339bd4e230c2dac31.ctex"]
 
 [params]
 

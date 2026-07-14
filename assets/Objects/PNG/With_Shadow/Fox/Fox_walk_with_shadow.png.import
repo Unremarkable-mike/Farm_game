@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7mf54g2bjbw1"
-path="res://.godot/imported/Fox_walk_with_shadow.png-2e76f62335c3c366c0d8d018eef16111.ctex"
+path="res://.godot/imported/Fox_walk_with_shadow.png-bcb5592750d1b3d0e368cdbc555af07b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objects/PNG/With_Shadow/Fox/Fox_walk_with_shadow.png"
-dest_files=["res://.godot/imported/Fox_walk_with_shadow.png-2e76f62335c3c366c0d8d018eef16111.ctex"]
+source_file="res://Assets/Objects/PNG/With_Shadow/Fox/Fox_walk_with_shadow.png"
+dest_files=["res://.godot/imported/Fox_walk_with_shadow.png-bcb5592750d1b3d0e368cdbc555af07b.ctex"]
 
 [params]
 

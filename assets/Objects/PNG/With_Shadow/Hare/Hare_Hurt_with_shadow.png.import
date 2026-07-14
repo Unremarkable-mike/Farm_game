@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://duqyu7uvctq1u"
-path="res://.godot/imported/Hare_Hurt_with_shadow.png-d7c0b6459d2a1964b193944ea7be7ffd.ctex"
+path="res://.godot/imported/Hare_Hurt_with_shadow.png-fba0a8caee70179bc8e3fed2771ea3df.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objects/PNG/With_Shadow/Hare/Hare_Hurt_with_shadow.png"
-dest_files=["res://.godot/imported/Hare_Hurt_with_shadow.png-d7c0b6459d2a1964b193944ea7be7ffd.ctex"]
+source_file="res://Assets/Objects/PNG/With_Shadow/Hare/Hare_Hurt_with_shadow.png"
+dest_files=["res://.godot/imported/Hare_Hurt_with_shadow.png-fba0a8caee70179bc8e3fed2771ea3df.ctex"]
 
 [params]
 

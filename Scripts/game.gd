@@ -54,13 +54,13 @@ var active_hand = {
 
 #var slots = {"slot_1":[false,slot1],"slot_2":[false,slot2],"slot_3":[false,slot3],"slot_4":[false,slot4]}
 
-var tomato_object: PackedScene = preload("res://tomato.tscn")
-var hoe_object: PackedScene = preload("res://hoe.tscn")
-var axe_object: PackedScene = preload("res://axe.tscn")
-var egg_object: PackedScene = preload("res://egg_item.tscn")
-var seeds_tomato: PackedScene = preload("res://tomato_seeds.tscn")
-var seeds_wheat: PackedScene = preload("res://wheat_seeds.tscn")
-var wheat_object: PackedScene = preload("res://wheat.tscn")
+var tomato_object: PackedScene = preload("res://Scenes/Items and pickups/tomato.tscn")
+var hoe_object: PackedScene = preload("res://Scenes/Items and pickups/hoe.tscn")
+var axe_object: PackedScene = preload("res://Scenes/Items and pickups/axe.tscn")
+var egg_object: PackedScene = preload("res://Scenes/Items and pickups/egg_item.tscn")
+var seeds_tomato: PackedScene = preload("res://Scenes/Items and pickups/tomato_seeds.tscn")
+var seeds_wheat: PackedScene = preload("res://Scenes/Items and pickups/wheat_seeds.tscn")
+var wheat_object: PackedScene = preload("res://Scenes/Items and pickups/wheat.tscn")
 
 func _ready() -> void:
 

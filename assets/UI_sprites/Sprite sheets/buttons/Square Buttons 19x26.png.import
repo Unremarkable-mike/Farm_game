@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcsju4wc8bn13"
-path="res://.godot/imported/Square Buttons 19x26.png-992658adeaee7d623dd56e3a8d646fb4.ctex"
+path="res://.godot/imported/Square Buttons 19x26.png-a10bb236093e6f0ed2055d00b8b4f999.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/UI_sprites/Sprite sheets/buttons/Square Buttons 19x26.png"
-dest_files=["res://.godot/imported/Square Buttons 19x26.png-992658adeaee7d623dd56e3a8d646fb4.ctex"]
+source_file="res://Assets/UI_sprites/Sprite sheets/buttons/Square Buttons 19x26.png"
+dest_files=["res://.godot/imported/Square Buttons 19x26.png-a10bb236093e6f0ed2055d00b8b4f999.ctex"]
 
 [params]
 

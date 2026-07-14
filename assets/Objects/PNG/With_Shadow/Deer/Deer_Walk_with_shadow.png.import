@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkk228c6hnu3f"
-path="res://.godot/imported/Deer_Walk_with_shadow.png-9dbc4cacb4e7299d4347a539202638c7.ctex"
+path="res://.godot/imported/Deer_Walk_with_shadow.png-7434ae8948299c5e0ebc0eb358a5fa5d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objects/PNG/With_Shadow/Deer/Deer_Walk_with_shadow.png"
-dest_files=["res://.godot/imported/Deer_Walk_with_shadow.png-9dbc4cacb4e7299d4347a539202638c7.ctex"]
+source_file="res://Assets/Objects/PNG/With_Shadow/Deer/Deer_Walk_with_shadow.png"
+dest_files=["res://.godot/imported/Deer_Walk_with_shadow.png-7434ae8948299c5e0ebc0eb358a5fa5d.ctex"]
 
 [params]
 

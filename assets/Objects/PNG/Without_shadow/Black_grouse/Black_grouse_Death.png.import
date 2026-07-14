@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://llrhgujbbso8"
-path="res://.godot/imported/Black_grouse_Death.png-e159c25956b61044f5522b337de0c500.ctex"
+path="res://.godot/imported/Black_grouse_Death.png-4b4d58bfb0dada6470c6e761acc47184.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objects/PNG/Without_shadow/Black_grouse/Black_grouse_Death.png"
-dest_files=["res://.godot/imported/Black_grouse_Death.png-e159c25956b61044f5522b337de0c500.ctex"]
+source_file="res://Assets/Objects/PNG/Without_shadow/Black_grouse/Black_grouse_Death.png"
+dest_files=["res://.godot/imported/Black_grouse_Death.png-4b4d58bfb0dada6470c6e761acc47184.ctex"]
 
 [params]
 

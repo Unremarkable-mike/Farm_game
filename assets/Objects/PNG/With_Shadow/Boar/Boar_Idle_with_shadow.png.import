@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://i1dy307o3xvg"
-path="res://.godot/imported/Boar_Idle_with_shadow.png-ac2d50f7f600f051d20fe039caeb0c87.ctex"
+path="res://.godot/imported/Boar_Idle_with_shadow.png-a5d884bdc2336ae2b582c64265c74dc5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objects/PNG/With_Shadow/Boar/Boar_Idle_with_shadow.png"
-dest_files=["res://.godot/imported/Boar_Idle_with_shadow.png-ac2d50f7f600f051d20fe039caeb0c87.ctex"]
+source_file="res://Assets/Objects/PNG/With_Shadow/Boar/Boar_Idle_with_shadow.png"
+dest_files=["res://.godot/imported/Boar_Idle_with_shadow.png-a5d884bdc2336ae2b582c64265c74dc5.ctex"]
 
 [params]
 

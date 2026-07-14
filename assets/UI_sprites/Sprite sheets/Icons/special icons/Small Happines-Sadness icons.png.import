@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ws4qde8wol5u"
-path="res://.godot/imported/Small Happines-Sadness icons.png-60f02befb6c15ae87cfd344b5e889d9c.ctex"
+path="res://.godot/imported/Small Happines-Sadness icons.png-702f04b254d1d45bbd2f377c4cf6fe03.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/UI_sprites/Sprite sheets/Icons/special icons/Small Happines-Sadness icons.png"
-dest_files=["res://.godot/imported/Small Happines-Sadness icons.png-60f02befb6c15ae87cfd344b5e889d9c.ctex"]
+source_file="res://Assets/UI_sprites/Sprite sheets/Icons/special icons/Small Happines-Sadness icons.png"
+dest_files=["res://.godot/imported/Small Happines-Sadness icons.png-702f04b254d1d45bbd2f377c4cf6fe03.ctex"]
 
 [params]
 

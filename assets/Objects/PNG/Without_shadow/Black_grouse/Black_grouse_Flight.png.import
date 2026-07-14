@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3ocoapo2v6bd"
-path="res://.godot/imported/Black_grouse_Flight.png-3e5145b5bf810c6f1bebe66471cc051b.ctex"
+path="res://.godot/imported/Black_grouse_Flight.png-ce6fba8b85f7ec71249b5df640bca2dd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objects/PNG/Without_shadow/Black_grouse/Black_grouse_Flight.png"
-dest_files=["res://.godot/imported/Black_grouse_Flight.png-3e5145b5bf810c6f1bebe66471cc051b.ctex"]
+source_file="res://Assets/Objects/PNG/Without_shadow/Black_grouse/Black_grouse_Flight.png"
+dest_files=["res://.godot/imported/Black_grouse_Flight.png-ce6fba8b85f7ec71249b5df640bca2dd.ctex"]
 
 [params]
 

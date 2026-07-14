@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kpbpfxtov7l0"
-path="res://.godot/imported/Premade dialog box small.png-95c062a0c2b5cb9fc9dce7e4ac88e6e7.ctex"
+path="res://.godot/imported/Premade dialog box small.png-33761b0a56b458bc17ab5ff717c784ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/UI_sprites/Sprite sheets/Dialouge UI/Premade dialog box small.png"
-dest_files=["res://.godot/imported/Premade dialog box small.png-95c062a0c2b5cb9fc9dce7e4ac88e6e7.ctex"]
+source_file="res://Assets/UI_sprites/Sprite sheets/Dialouge UI/Premade dialog box small.png"
+dest_files=["res://.godot/imported/Premade dialog box small.png-33761b0a56b458bc17ab5ff717c784ad.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cr6oa7gjcg26q"
-path="res://.godot/imported/Boar_Attack.png-b4a4763a1d0316d228ef49b5b138f241.ctex"
+path="res://.godot/imported/Boar_Attack.png-dd56c28778159be7194a985446b310b1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objects/PNG/Without_shadow/Boar/Boar_Attack.png"
-dest_files=["res://.godot/imported/Boar_Attack.png-b4a4763a1d0316d228ef49b5b138f241.ctex"]
+source_file="res://Assets/Objects/PNG/Without_shadow/Boar/Boar_Attack.png"
+dest_files=["res://.godot/imported/Boar_Attack.png-dd56c28778159be7194a985446b310b1.ctex"]
 
 [params]
 

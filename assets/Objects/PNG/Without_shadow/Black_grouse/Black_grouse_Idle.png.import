@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://df3pkgmolcqji"
-path="res://.godot/imported/Black_grouse_Idle.png-7e294b9b361a3e39230ece03ceb7fe10.ctex"
+path="res://.godot/imported/Black_grouse_Idle.png-a63ab061f9c7918a6aedeafe20be9f4f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objects/PNG/Without_shadow/Black_grouse/Black_grouse_Idle.png"
-dest_files=["res://.godot/imported/Black_grouse_Idle.png-7e294b9b361a3e39230ece03ceb7fe10.ctex"]
+source_file="res://Assets/Objects/PNG/Without_shadow/Black_grouse/Black_grouse_Idle.png"
+dest_files=["res://.godot/imported/Black_grouse_Idle.png-a63ab061f9c7918a6aedeafe20be9f4f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dro2x0u1tcshl"
-path="res://.godot/imported/Deer_Hurt_with_shadow.png-dc19fc34e02c5abbed6247c5b0b8e04a.ctex"
+path="res://.godot/imported/Deer_Hurt_with_shadow.png-7383c7bdb49b86c5be2013009dd1d34e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Objects/PNG/With_Shadow/Deer/Deer_Hurt_with_shadow.png"
-dest_files=["res://.godot/imported/Deer_Hurt_with_shadow.png-dc19fc34e02c5abbed6247c5b0b8e04a.ctex"]
+source_file="res://Assets/Objects/PNG/With_Shadow/Deer/Deer_Hurt_with_shadow.png"
+dest_files=["res://.godot/imported/Deer_Hurt_with_shadow.png-7383c7bdb49b86c5be2013009dd1d34e.ctex"]
 
 [params]
 

@@ -45,7 +45,7 @@ project/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/farm-game-prototype.git
+git clone https://github.com/michaelprincesort-07/Farm_game.git
 ```
 
 2. Open the project in Godot.
@@ -76,8 +76,8 @@ Developed by **Mike**.
 
 ### Third-Party Assets
 
-- Pixel art assets by **Author Name** — License: OFL
-- Tileset by **Artist Name** — License: CC BY 4.0
+- Pixel art assets by [**cupnooble**](https://cupnooble.itch.io) — License: OFL
+- 
 
 ### Engine
 
